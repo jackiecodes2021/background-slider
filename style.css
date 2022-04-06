@@ -11,7 +11,7 @@ body{
     height: 100vh;
     overflow: hidden;
     margin: 0;
-    background-image: url('https://images.unsplash.com/photo-1594035519981-62c9cef33ca9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnViYmxlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60');
+    /* background-image: url('https://images.unsplash.com/photo-1594035519981-62c9cef33ca9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnViYmxlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60'); */
     background-position: center center;
     background-size: cover;
     transition: 0.4s ease;
@@ -61,7 +61,6 @@ body::before{
     /* change arrow color */
     color: white;
     cursor: pointer;
-
 }
 .arrow:focus{
     outline: 0;
